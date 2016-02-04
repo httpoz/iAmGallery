@@ -1,4 +1,4 @@
-# iAmImage
+# iAmGallery
 
 ## Usage
 
